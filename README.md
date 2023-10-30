@@ -1,5 +1,4 @@
 ### Hi  👋 🌱 I’m currently learning computer programming @ 42 Lausanne
-[![hkahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkahsay)](https://github.com/hkahsay/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkahsay&layout=compact)
 
 
@@ -16,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![hkahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkahsay)](https://github.com/hkahsay/github-readme-stats)
 -->
